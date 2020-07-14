@@ -76,6 +76,12 @@ name = "Matheus"
 
 # Ruby identifies an array by finding square brackets []
 
+# One element array
+["Mastodon"]
+
+# Two elements array
+["Mastodon", 8124891]
+
 ['Mastodon', 12, 3.14].size          #=> 3
 ['Mastodon', 'AC/DC', 'ZZ Top'].sort #=> ["AC/DC", "Mastodon", "ZZ Top"]
 [3, 5, 1].sort                       #=> [1, 3, 5]
